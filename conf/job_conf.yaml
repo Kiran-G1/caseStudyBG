@@ -1,1 +1,8 @@
+job_name: "analytics_study"
+
+data_resources:
+  primary_person: "./data/data/Primary_Person_use.csv"
+  units_use: "./data/data/Units_use.csv"
+  damages: "./data/data/Damages_use.csv"
+  charges: "./data/data/Charges_use.csv"
 
