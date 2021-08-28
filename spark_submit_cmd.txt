@@ -1,0 +1,5 @@
+/Users/kiran.gali/opt/anaconda3/bin/spark-submit --master local  --py-files conf/job_conf.yaml, data/data/Charges_use.csv, data/data/Damages_use.csv,data/data/Primary_Person.csv,data/data/Units_use.csv lib/logger.py analytics.py
+
+
+
+####/Users/kiran.gali/opt/anaconda3/bin/spark-submit --master local[*] --num-executors <Executors> --executor-memory <Memory> --total-executor-cores=<Cores> --py-files <Files>  <Parameters>
