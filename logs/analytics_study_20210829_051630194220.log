@@ -1,0 +1,63 @@
+2021-08-29 05:13:48,549 > print_and_log (51): count of men killed:180
+2021-08-29 05:13:50,040 > print_and_log (51): two wheelers involved in accidents:767
+2021-08-29 05:13:51,800 > print_and_log (51): most accidents occurred in the state with female casualties:Texas
+2021-08-29 05:13:53,876 > print_and_log (51): top-4 vehicle  make id is: NISSAN
+2021-08-29 05:13:53,876 > print_and_log (51): top-5 vehicle  make id is: HONDA
+2021-08-29 05:13:53,877 > print_and_log (51): top-6 vehicle  make id is: GMC
+2021-08-29 05:13:53,877 > print_and_log (51): top-7 vehicle  make id is: HYUNDAI
+2021-08-29 05:13:53,877 > print_and_log (51): top-8 vehicle  make id is: JEEP
+2021-08-29 05:13:53,877 > print_and_log (51): top-9 vehicle  make id is: KIA
+2021-08-29 05:13:53,877 > print_and_log (51): top-10 vehicle  make id is: CHRYSLER
+2021-08-29 05:13:53,877 > print_and_log (51): top-11 vehicle  make id is: NA
+2021-08-29 05:13:53,877 > print_and_log (51): top-12 vehicle  make id is: MAZDA
+2021-08-29 05:13:53,877 > print_and_log (51): top-13 vehicle  make id is: PONTIAC
+2021-08-29 05:13:54,520 > print_and_log (51): top ethnic type for body type BUS is: 
+2021-08-29 05:13:54,934 > print_and_log (51): [Row(PRSN_ETHNICITY_ID='HISPANIC', count=391)]
+2021-08-29 05:13:54,935 > print_and_log (51): top ethnic type for body type NA is: 
+2021-08-29 05:13:55,328 > print_and_log (51): [Row(PRSN_ETHNICITY_ID='WHITE', count=5693)]
+2021-08-29 05:13:55,328 > print_and_log (51): top ethnic type for body type VAN is: 
+2021-08-29 05:13:55,692 > print_and_log (51): [Row(PRSN_ETHNICITY_ID='WHITE', count=5291)]
+2021-08-29 05:13:55,692 > print_and_log (51): top ethnic type for body type PICKUP is: 
+2021-08-29 05:13:56,096 > print_and_log (51): [Row(PRSN_ETHNICITY_ID='WHITE', count=38609)]
+2021-08-29 05:13:56,096 > print_and_log (51): top ethnic type for body type SPORT UTILITY VEHICLE is: 
+2021-08-29 05:13:56,502 > print_and_log (51): [Row(PRSN_ETHNICITY_ID='WHITE', count=33902)]
+2021-08-29 05:13:56,503 > print_and_log (51): top ethnic type for body type PASSENGER CAR, 4-DOOR is: 
+2021-08-29 05:13:56,883 > print_and_log (51): [Row(PRSN_ETHNICITY_ID='WHITE', count=58312)]
+2021-08-29 05:13:56,883 > print_and_log (51): top ethnic type for body type FIRE TRUCK is: 
+2021-08-29 05:13:57,229 > print_and_log (51): [Row(PRSN_ETHNICITY_ID='WHITE', count=112)]
+2021-08-29 05:13:57,229 > print_and_log (51): top ethnic type for body type TRUCK is: 
+2021-08-29 05:13:57,563 > print_and_log (51): [Row(PRSN_ETHNICITY_ID='WHITE', count=4204)]
+2021-08-29 05:13:57,563 > print_and_log (51): top ethnic type for body type UNKNOWN is: 
+2021-08-29 05:13:57,893 > print_and_log (51): [Row(PRSN_ETHNICITY_ID='WHITE', count=1178)]
+2021-08-29 05:13:57,893 > print_and_log (51): top ethnic type for body type AMBULANCE is: 
+2021-08-29 05:13:58,197 > print_and_log (51): [Row(PRSN_ETHNICITY_ID='WHITE', count=97)]
+2021-08-29 05:13:58,197 > print_and_log (51): top ethnic type for body type POLICE CAR/TRUCK is: 
+2021-08-29 05:13:58,512 > print_and_log (51): [Row(PRSN_ETHNICITY_ID='WHITE', count=366)]
+2021-08-29 05:13:58,512 > print_and_log (51): top ethnic type for body type MOTORCYCLE is: 
+2021-08-29 05:13:58,851 > print_and_log (51): [Row(PRSN_ETHNICITY_ID='WHITE', count=848)]
+2021-08-29 05:13:58,852 > print_and_log (51): top ethnic type for body type YELLOW SCHOOL BUS is: 
+2021-08-29 05:13:59,179 > print_and_log (51): [Row(PRSN_ETHNICITY_ID='WHITE', count=264)]
+2021-08-29 05:13:59,179 > print_and_log (51): top ethnic type for body type POLICE MOTORCYCLE is: 
+2021-08-29 05:13:59,513 > print_and_log (51): [Row(PRSN_ETHNICITY_ID='HISPANIC', count=3)]
+2021-08-29 05:13:59,513 > print_and_log (51): top ethnic type for body type PASSENGER CAR, 2-DOOR is: 
+2021-08-29 05:13:59,878 > print_and_log (51): [Row(PRSN_ETHNICITY_ID='WHITE', count=9877)]
+2021-08-29 05:13:59,879 > print_and_log (51): top ethnic type for body type TRUCK TRACTOR is: 
+2021-08-29 05:14:00,236 > print_and_log (51): [Row(PRSN_ETHNICITY_ID='WHITE', count=5815)]
+2021-08-29 05:14:00,236 > print_and_log (51): top ethnic type for body type FARM EQUIPMENT is: 
+2021-08-29 05:14:00,571 > print_and_log (51): [Row(PRSN_ETHNICITY_ID='WHITE', count=63)]
+2021-08-29 05:14:00,571 > print_and_log (51): top ethnic type for body type NEV-NEIGHBORHOOD ELECTRIC VEHICLE is: 
+2021-08-29 05:14:00,898 > print_and_log (51): [Row(PRSN_ETHNICITY_ID='WHITE', count=10)]
+2021-08-29 05:14:00,898 > print_and_log (51): top ethnic type for body type OTHER  (EXPLAIN IN NARRATIVE) is: 
+2021-08-29 05:14:01,267 > print_and_log (51): [Row(PRSN_ETHNICITY_ID='WHITE', count=459)]
+2021-08-29 05:14:01,267 > print_and_log (51): top ethnic type for body type NOT REPORTED is: 
+2021-08-29 05:14:01,621 > print_and_log (51): [Row(PRSN_ETHNICITY_ID='HISPANIC', count=2)]
+2021-08-29 05:14:02,421 > print_and_log (51): top 5 zip codes which has highest car crashes under alcohol influence
+
+2021-08-29 05:14:02,422 > print_and_log (51): Row(DRVR_ZIP='78521', count=2196)
+2021-08-29 05:14:02,422 > print_and_log (51): Row(DRVR_ZIP='79936', count=2111)
+2021-08-29 05:14:02,422 > print_and_log (51): Row(DRVR_ZIP='78046', count=1795)
+2021-08-29 05:14:02,422 > print_and_log (51): Row(DRVR_ZIP='77449', count=1643)
+2021-08-29 05:14:05,132 > print_and_log (51): ['Texas', 'NA', 'Unknown', 'Mexico', 'Louisiana', 'New Mexico', 'California', 'Florida', 'Oklahoma', 'Arkansas', 'Other', 'Arizona', 'Georgia', 'Colorado', 'Illinois', 'Mississippi', 'Tennessee', 'North Carolina', 'Missouri', 'Kansas', 'Alabama', 'Washington', 'Michigan', 'Ohio', 'New York']
+2021-08-29 05:14:05,458 > print_and_log (51): ['WHI', 'BLK', 'SIL', 'GRY', 'BLU', 'RED', 'GRN', 'NA', 'MAR', 'TAN']
+2021-08-29 05:14:06,097 > print_and_log (51): top 5 vehile make ids where drivers are charged with speeding and license state falls in top  25 highest ticket states
+2021-08-29 05:14:06,561 > print_and_log (51): [Row(VEH_MAKE_ID='CHEVROLET', count=12), Row(VEH_MAKE_ID='FORD', count=8), Row(VEH_MAKE_ID='TOYOTA', count=7), Row(VEH_MAKE_ID='VOLKSWAGEN', count=6), Row(VEH_MAKE_ID='NISSAN', count=6)]
